@@ -1,4 +1,4 @@
-## Hey 👋🏻, I'm a senior React, Next, Node, AI developer.🚀
+## Hey 👋🏻, I'm a senior React, Next, Node, Python, LangChain, RAG, LLMs Specialist.🚀
 <p>
    
 ## I am very familiar with JavaScript, ChatGPT, LangChain, Pinecone and LLMs.
