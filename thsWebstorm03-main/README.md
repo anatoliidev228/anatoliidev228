@@ -1,4 +1,4 @@
-## Hey 👋🏻, I'm Generative AI & MERN stack developer.🚀
+## Hey 👋🏻, I'm Senior Full Stakc and AI developer.🚀
 
 <p>
 

@@ -1,11 +1,12 @@
-## Hey 👋🏻, I'm Senior Full Stack & AI developer.🚀
-
+## Hey 👋🏻, I'm a senior React, Next, Node, AI developer.🚀
 <p>
-
-## I am very familiar with ChatGPT, LangChain, Pinecone and LLMs. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building MVPs, apps, enterprise software, scalable microservices, web crawlers, REST and Socket APIs, infrastructure modeling, AWS, and deployments. I am the go-to guy for any of your development needs.
-
+   
+## I am very familiar with JavaScript, ChatGPT, LangChain, Pinecone and LLMs.
 </p>
 
+<p align="center">
+  <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
@@ -49,7 +50,7 @@
 ### Frontend & Backend Development
 <br />
 
-### Chatbot Development
+### ChatGPT (RAG) Development
 
 <br />
 
@@ -57,4 +58,4 @@
 
 <br />
 
-### Web & Mobile Design
+### BlockChain
